@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>elasticsearch</id>
+    <title>ElasticSearch</title>
+    <version>0.20.4.20130212</version>
+    <authors>https://github.com/elasticsearch/elasticsearch/contributors</authors>
+    <owners>D. Stuart Freeman</owners>
+    <summary>A distributed RESTful search engine built for the cloud.</summary>
+    <description>A distributed RESTful search engine built for the cloud.</description>
+    <projectUrl>http://www.elasticsearch.org</projectUrl>
+    <tags>search REST</tags>
+    <licenseUrl>https://github.com/elasticsearch/elasticsearch/blob/v0.20.4/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.elasticsearch.org/images/header.png</iconUrl>
+    <dependencies>
+      <dependency id="javaruntime" />
+    </dependencies>
+  </metadata>
+</package>
