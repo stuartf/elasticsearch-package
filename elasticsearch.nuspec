@@ -3,16 +3,16 @@
   <metadata>
     <id>elasticsearch</id>
     <title>ElasticSearch</title>
-    <version>0.90.0.20130523</version>
+    <version>1.2.1.20140617</version>
     <authors>https://github.com/elasticsearch/elasticsearch/contributors</authors>
     <owners>D. Stuart Freeman</owners>
     <summary>A distributed RESTful search engine built for the cloud.</summary>
     <description>A distributed RESTful search engine built for the cloud.</description>
     <projectUrl>http://www.elasticsearch.org</projectUrl>
     <tags>search REST</tags>
-    <licenseUrl>https://github.com/elasticsearch/elasticsearch/blob/v0.90.0/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://github.com/elasticsearch/elasticsearch/blob/v1.2.1/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://www.elasticsearch.org/images/header.png</iconUrl>
+    <iconUrl>http://www.elasticsearch.org/content/themes/elasticsearch-org/images/bonsai1.png</iconUrl>
     <dependencies>
       <dependency id="javaruntime" />
     </dependencies>
