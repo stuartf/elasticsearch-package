@@ -10,7 +10,7 @@
     <description>A distributed RESTful search engine built for the cloud.</description>
     <projectUrl>http://www.elasticsearch.org</projectUrl>
     <tags>search REST</tags>
-    <licenseUrl>https://github.com/elasticsearch/elasticsearch/blob/v1.2.1/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://github.com/elasticsearch/elasticsearch/blob/v1.4.1/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.elasticsearch.org/content/themes/elasticsearch-org/images/bonsai1.png</iconUrl>
     <dependencies>
