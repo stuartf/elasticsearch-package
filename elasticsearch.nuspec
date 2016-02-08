@@ -3,7 +3,7 @@
   <metadata>
     <id>elasticsearch</id>
     <title>ElasticSearch</title>
-    <version>1.4.1.20141202</version>
+    <version>2.2.0</version>
     <authors>https://github.com/elasticsearch/elasticsearch/contributors</authors>
     <owners>D. Stuart Freeman</owners>
     <summary>A distributed RESTful search engine built for the cloud.</summary>
